@@ -1,0 +1,18 @@
+Nume: Ion Popescu
+Data Nasterii: 06.08.1968
+Telefon: 072196369
+Username: ionPopescu1
+Parola: 1234
+Istoric Medical: 
+  denumire='Pneumonie', descriere='descrierea siptomelor pacientului'
+  denumire='Tuse seaca', descriere='pacientului i s-a oferit sirop de tuse'
+Programari:
+--------------------------------------------------
+Nume: Mihai pop
+Data Nasterii: 12.09.2000
+Telefon: 0724155696
+Username: Miahi Pop3
+Parola: 1234
+Istoric Medical: 
+Programari:
+--------------------------------------------------

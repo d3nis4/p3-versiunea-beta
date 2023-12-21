@@ -1,0 +1,10 @@
+Nume: Mihai stefan
+Specializare: cardiolog
+Orar: 
+LUNI: 8 - 14
+Miercuri: 16 - 21
+Joi: 10 - 18
+Username: Doctor mihai1
+Parola: 1234
+Programari: Ion Popescu , Luni 12
+--------------------------------------------------
